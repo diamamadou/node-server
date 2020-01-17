@@ -1,0 +1,21 @@
+[
+    { 
+        "status" : "0",
+        "label" : "Tomate", 
+        "description" : "Délicieuse tomate bio sicilienne", 
+        "image64" :  "images/1.png"
+    },
+    { 
+        "status" : "0",
+        "label" : "Parmesan", 
+        "description" : "Parmesan authentique 2 ans d'affinage",
+        "image64" : "images/2.png"
+    },
+    { 
+        "status" : "0",
+        "label" : "Thon", 
+        "description" : "Aucune description",
+        "image64" : "images/3.png"
+    }
+
+]
